@@ -1,0 +1,14 @@
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\bin\Debug\net7.0\Задание 1.exe
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\bin\Debug\net7.0\Задание 1.deps.json
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\bin\Debug\net7.0\Задание 1.runtimeconfig.json
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\bin\Debug\net7.0\Задание 1.dll
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\bin\Debug\net7.0\Задание 1.pdb
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\obj\Debug\net7.0\Задание 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\obj\Debug\net7.0\Задание 1.AssemblyInfoInputs.cache
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\obj\Debug\net7.0\Задание 1.AssemblyInfo.cs
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\obj\Debug\net7.0\Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\obj\Debug\net7.0\Задание 1.dll
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\obj\Debug\net7.0\refint\Задание 1.dll
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\obj\Debug\net7.0\Задание 1.pdb
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\obj\Debug\net7.0\Задание 1.genruntimeconfig.cache
+C:\Users\redko\OneDrive\Рабочий стол\ДЗ двумерные массивы\Задание 1\obj\Debug\net7.0\ref\Задание 1.dll
